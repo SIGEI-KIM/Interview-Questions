@@ -1,0 +1,16 @@
+body{
+  background-color: brown;
+}
+.input{
+  text-align: center;
+  margin-top: 100px;
+}
+#outputResult{
+  background-color: blue;
+}
+#inputText{
+  background-color: chartreuse;
+}
+button{
+  color: blue;
+}
